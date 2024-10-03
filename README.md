@@ -25,6 +25,9 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 
 ## 📝 Daily Progress
 
-| Day | Topic | Twitter Post 
-| --- | ----- | ----------------------------------------------------
-| 1   | Introduction to Machine Learning | [Day 1]
+| Day | Topic & Twitter Post 
+| --- | ------------------------------------------------------------------------------------------
+| 1   | Introduction to Machine Learning | [Day 1] https://x.com/dilli_hangrae/status/1841759148381548657
+| 2   | 
+| 3   | 
+| 4   | 

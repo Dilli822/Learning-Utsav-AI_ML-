@@ -33,6 +33,5 @@ plt.grid(True)
 plt.legend()
 plt.show()
 
-
-
 # GOOGLE DOCS: https://docs.google.com/document/d/1F4FFsqYd-5EYfnThY_TlYCcTEQ3BQpAvjfIPHBKwGyY/edit?usp=sharing
+# twitter: https://x.com/dilli_hangrae/status/1841759148381548657
