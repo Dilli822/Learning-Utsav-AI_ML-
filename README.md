@@ -27,7 +27,7 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 
 | Day | Topic & Twitter Post 
 | --- | ------------------------------------------------------------------------------------------
-| 1   | Introduction to Machine Learning | [Day 1] https://x.com/dilli_hangrae/status/1841759148381548657
-| 2   | 
+| 1   | Introduction to Machine Learning | [Day 1] https://x.com/dilli_hangrae/status/1841763188117012784
+| 2   | Exploring concepts on parameters,models,vectors,data points of objects | [Day 2] https://x.com/dilli_hangrae/status/1842117445768839259
 | 3   | 
 | 4   | 
