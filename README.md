@@ -2,7 +2,7 @@
 
 ### Dilli Hang Rai  
 📅 Starts from: Oct 3, 2024  
-🔗 **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+🔗 **Twitter**: [@YourTwitterHandle](https://x.com/dilli_hangrae)
 
 ---
 
