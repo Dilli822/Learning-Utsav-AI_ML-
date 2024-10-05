@@ -35,6 +35,7 @@ ax[1].legend()
 plt.tight_layout()
 plt.show()
 
-
 #　SciPy in Python primarily for its robust collection of mathematical algorithms, statistical functions, and scientific computing tools. 
-# .stem() function in Matplotlib creates a stem plot, which is used to display discrete data. A stem plot is similar to a bar chart but with lines (stems) connecting the data points to a baseline. It’s particularly useful for visualizing discrete distributions like PMFs (Probability Mass Functions) or any data with clearly defined, separate points
+# .stem() function in Matplotlib creates a stem plot, which is used to display discrete data. 
+# A stem plot is similar to a bar chart but with lines (stems) connecting the data points to a baseline. 
+# It’s particularly useful for visualizing discrete distributions like PMFs (Probability Mass Functions) or any data with clearly defined, separate points
