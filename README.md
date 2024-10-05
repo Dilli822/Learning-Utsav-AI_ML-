@@ -29,5 +29,5 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 | --- | ------------------------------------------------------------------------------------------
 | 1   | Introduction to Machine Learning | [Day 1] https://x.com/dilli_hangrae/status/1841763188117012784
 | 2   | Exploring concepts on parameters,models,vectors,data points of objects | [Day 2] https://x.com/dilli_hangrae/status/1842117445768839259
-| 3   | 
+| 3   | Intro to Probability & Statistics, Distributions, Discrete and Continuous, PMF,PDF, Bernoulli Distribution | [Day 3] https://x.com/dilli_hangrae/status/1842409414663213375
 | 4   | 
