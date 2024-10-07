@@ -31,3 +31,18 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 | 2   | Exploring concepts on parameters,models,vectors,data points of objects, https://x.com/dilli_hangrae/status/1842117445768839259
 | 3   | Intro to Probability & Statistics, Distributions, Discrete and Continuous, PMF,PDF, Bernoulli Distribution , https://x.com/dilli_hangrae/status/1842409414663213375
 | 4   | Joint Probability Distribution, PDF, Multi-variate Gaussian Distribution,Marginal Probability,Conditional Probability,AI Perspectives: Thinking and acting rationality and humanly, https://x.com/dilli_hangrae/status/1842784087825899934
+| 5   | Expectations with their properties, independence, linearity,co-variance, variance,Bernoulli Cov,emprical mean and co-variance, https://x.com/dilli_hangrae/status/1843173089397612622
+|     |
+|     |
+|     |
+|     |
+|     |
+|     |
+|     |
+|     |
+|     |
+|     |
+|     |
+|     |
+|     |
+|     |
