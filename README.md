@@ -33,7 +33,7 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 | 4   | Joint Probability Distribution, PDF, Multi-variate Gaussian Distribution,Marginal Probability,Conditional Probability,AI Perspectives: Thinking and acting rationality and humanly, https://x.com/dilli_hangrae/status/1842784087825899934
 | 5   | Expectations with their properties, independence, linearity,co-variance, variance,Bernoulli Cov,emprical mean and co-variance, https://x.com/dilli_hangrae/status/1843173089397612622
 | 6   | Linear Algebra,Vector vs Scalars, Vector Space, Matrices, Vector Product, Span and Basis of Vector, Matrices as Linear Transformations, Representation of Graph, Dimensionality reduction using matrices,Vector Scaling, lINEARLY DEPENDENT AND independent, 2D & 3D Vectors Space, Polar and Catesian Co-ordinates, Outer Product, Inner Product, Dot Product and Hadamard Product, https://x.com/dilli_hangrae/status/1843523500608503902
-|     |
+| 7   | Dot Product in ANN,Eigen Vectors and Values, Eigen Decomposition, Matrix as Linear Transformation, Roles of Eigen with animation plots , https://x.com/dilli_hangrae/status/1843882103689359408
 |     |
 |     |
 |     |
