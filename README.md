@@ -34,7 +34,7 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 | 5   | Expectations with their properties, independence, linearity,co-variance, variance,Bernoulli Cov,emprical mean and co-variance, https://x.com/dilli_hangrae/status/1843173089397612622
 | 6   | Linear Algebra,Vector vs Scalars, Vector Space, Matrices, Vector Product, Span and Basis of Vector, Matrices as Linear Transformations, Representation of Graph, Dimensionality reduction using matrices,Vector Scaling, lINEARLY DEPENDENT AND independent, 2D & 3D Vectors Space, Polar and Catesian Co-ordinates, Outer Product, Inner Product, Dot Product and Hadamard Product, https://x.com/dilli_hangrae/status/1843523500608503902
 | 7   | Dot Product in ANN,Eigen Vectors and Values, Eigen Decomposition, Matrix as Linear Transformation, Roles of Eigen with animation plots , https://x.com/dilli_hangrae/status/1843882103689359408
-|     |
+| 8   | Quick Theoretical Tour on Machine Learning - Linear and Logistic Regression with some Mathematical notations, Loss function, training and testing dataset, Knowledge representation in AI, issues in KB repsentation and methods to represent the Knowledge, Maximum Likelihood Estimation, Parameteric vs Non-Parameteric Model of Function, https://x.com/dilli_hangrae/status/1844293749322752346
 |     |
 |     |
 |     |
