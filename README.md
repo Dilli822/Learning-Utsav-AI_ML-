@@ -36,7 +36,7 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 | 7   | Dot Product in ANN,Eigen Vectors and Values, Eigen Decomposition, Matrix as Linear Transformation, Roles of Eigen with animation plots , https://x.com/dilli_hangrae/status/1843882103689359408
 | 8   | Quick Theoretical Tour on Machine Learning - Linear and Logistic Regression with some Mathematical notations, Loss function, training and testing dataset, Knowledge representation in AI, issues in KB repsentation and methods to represent the Knowledge, Maximum Likelihood Estimation, Parameteric vs Non-Parameteric Model of Function, https://x.com/dilli_hangrae/status/1844293749322752346
 |  9  | Cross-Validatios, Regularization L1 and L2,K-NN, K-Means Clustering, SVM (non-linear), AI agents, PEAS, Sensor-Actuators-Effectors, Bias-Variance Trade-off, https://x.com/dilli_hangrae/status/1844601197946437918
-|     |
+|  10 | Statistical Method: Finding beta0 and beta1 y = beta0 + beta1* X where X is input and predicting the outcome 0 or 1 using Statistics of logistic regression , https://x.com/dilli_hangrae/status/1844945255583580320
 |     |
 |     |
 |     |
