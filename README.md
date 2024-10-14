@@ -38,7 +38,7 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 |  9  | Cross-Validatios, Regularization L1 and L2,K-NN, K-Means Clustering, SVM (non-linear), AI agents, PEAS, Sensor-Actuators-Effectors, Bias-Variance Trade-off, https://x.com/dilli_hangrae/status/1844601197946437918
 |  10 | Statistical Method: Finding beta0 and beta1 y = beta0 + beta1* X where X is input and predicting the outcome 0 or 1 using Statistics of logistic regression , https://x.com/dilli_hangrae/status/1844945255583580320
 |  11 | Revised: Vectors, Matrices, Basis, Dependencies, Eigenvalues/Vectors, Decomposition, Statistical/Probability Concepts (PDF, PMF, Marginal Probability, Independence, Variance/Covariance, Distributions), Chain Rule, Expectation, Worked with various static datasets in Logistic Regression, https://x.com/dilli_hangrae/status/1845352394428908024
-|     |
+| 12  | Supervised Learning: Classification vs Regression: Linear Regression vs Sparse Regression (using less features) and Logistic Regression vs Sparse Logistic Regression and Non-Linearity Model Tree Based: Random vs XG Boosted Random Forest(building the tree sequentially each tree step by step and correct the previous error tree with the current tree) with visualizations plots, https://x.com/dilli_hangrae/status/1845706594757353833
 |     |
 |     |
 |     |
