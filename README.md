@@ -40,7 +40,7 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 |  11 | Revised: Vectors, Matrices, Basis, Dependencies, Eigenvalues/Vectors, Decomposition, Statistical/Probability Concepts (PDF, PMF, Marginal Probability, Independence, Variance/Covariance, Distributions), Chain Rule, Expectation, Worked with various static datasets in Logistic Regression, https://x.com/dilli_hangrae/status/1845352394428908024
 | 12  | Supervised Learning: Classification vs Regression: Linear Regression vs Sparse Regression (using less features) and Logistic Regression vs Sparse Logistic Regression and Non-Linearity Model Tree Based: Random vs XG Boosted Random Forest(building the tree sequentially each tree step by step and correct the previous error tree with the current tree) with visualizations plots, https://x.com/dilli_hangrae/status/1845706594757353833
 | 13  | Z-score normalizations, transformation, differences in scales and using sparse, featurization, filling the missing values for both classification and regression, knowledge vs facts vs information vs representations, propositional as a knowledge representation method with operators and backward+forward knowledge representations methods, https://x.com/dilli_hangrae/status/1846050651559940229
-|     |
+|  14 | Detailed Study on Overfitting, Underfitting, Prevention of Overfitting: Cross-Validation and Test/Split Dataset, Bias-Variance TradeOff, Logistic Regression Loss Function Derivation, 
 |     |
 |     |
 |     |
