@@ -42,7 +42,14 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 | 13  | Z-score normalizations, transformation, differences in scales and using sparse, featurization, filling the missing values for both classification and regression, knowledge vs facts vs information vs representations, propositional as a knowledge representation method with operators and backward+forward knowledge representations methods, https://x.com/dilli_hangrae/status/1846050651559940229
 |  14 | Detailed Study on Overfitting, Underfitting, Prevention of Overfitting: Cross-Validation and Test/Split Dataset, Bias-Variance TradeOff, Logistic Regression Loss Function Derivation, https://x.com/dilli_hangrae/status/1846445899838595257
 |  15 |Getting into CNN,parameters, kernel operator in CNN,Motivation of Convolutional Neural Networks,Edge detection using gaussian filter and noise modeled via Gaussian Probability Distribution, https://x.com/dilli_hangrae/status/1846853957127491867
-|     |
+|  16 | Continuing CNNs, Pooling, Max vs Average Pooling, Applying ReLu and filters in the entire image and viewing the EKG Signals filters plots, Propositional Logic vs Predicate Logic vs First-Order Predicate Logic used in Knowledge Representation, CNNs in action and reading the block steps of FCN vs CCN, channels, batch size, input-output features and size, Receptive Field, Coding part are:Load EKG Signal, Read 1000 samples of EKG data from the MIT-BIH Arrhythmia Database (record '100'),
+|| Extract Signal and Time Axis: Extract the EKG signal and create a time array in seconds,
+|| Apply Gaussian Smoothing: Use a Gaussian filter to reduce noise in the signal,
+|| Edge Detection (Gradient): Calculate the gradient (first derivative) of the smoothed signal to detect sharp transitions (peaks),
+|| Noise Reduction: Compute noise reduction by subtracting the smoothed signal from the original,
+|| Visualization: Plot the original signal, smoothed signal, edge detection result, and noise reduction in a 4-plot grid,
+||Sobel Edge Detection: Apply a Sobel filter to highlight sharp changes in the signal,
+||Final Plot: Plot the original signal and Sobel-filtered edge detection results side by side, https://x.com/dilli_hangrae/status/1847138828794187780
 |     |
 |     |
 |     |
