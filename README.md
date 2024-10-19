@@ -52,6 +52,22 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 || Visualization: Plot the original signal, smoothed signal, edge detection result, and noise reduction in a 4-plot grid,
 ||Sobel Edge Detection: Apply a Sobel filter to highlight sharp changes in the signal,
 ||Final Plot: Plot the original signal and Sobel-filtered edge detection results side by side, https://x.com/dilli_hangrae/status/1847138828794187780
-|     |
+| 17  | CNNs Continue, Max Pooling as Translation invariance, Counting the number of parameters, understanding the CNN Architectures and Network Diagrams,Strides, Implementation of the simple CNN model, https://x.com/dilli_hangrae/status/1847550062844662121
+|| Steps of CNN Operation
+|| Load the MNIST Dataset: The dataset is split into training and testing sets.
+|| Data Preprocessing:
+|| Normalization: Pixel values are scaled to the range [0, 1].
+|| Reshaping: Each image is reshaped to include a channel dimension.
+|| One-Hot Encoding of Labels: Convert class labels to binary class matrices.
+|| Model Creation: A Sequential model is constructed with multiple layers:
+|| Convolutional Layers: Extract features from the images.
+|| Max Pooling Layers: Reduce the dimensionality while retaining important features.
+|| Flatten Layer: Convert the 2D feature maps into a 1D vector.
+|| Dense Layers: Perform classification on the flattened vector.
+|| Dropout Layer: Regularize the model by randomly setting a fraction of input units to 0 during training.
+|| Model Compilation: The model is compiled with an optimizer and loss function.
+|| Model Training: The model is trained on the training data with early stopping.
+|| Model Evaluation: The model is evaluated on the test data to assess performance.
+|| Plotting Results: Visualize training and validation accuracy and loss over epochs.
 |     |
 |     |
