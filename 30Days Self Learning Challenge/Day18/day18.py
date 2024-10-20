@@ -104,5 +104,25 @@ def predict_custom_image(url):
     plt.show()
 
 # Allow user to input the URL for custom digit image
-url = input("Enter the URL of a handwritten digit image: ")
-predict_custom_image(url)
+# url = input("Enter the URL of a handwritten digit image: ")
+# predict_custom_image(url)
+
+# https://1001freedownloads.s3.amazonaws.com/vector/thumb/64381/0-9-Handwritten-5.png
+# https://i.sstatic.net/CF1ze.jpg
+# https://thumb.ac-illust.com/51/513ad2b0cfad8ad3dce41e82ad5150c4_t.jpeg
+# https://thumb.ac-illust.com/c9/c9b9da8c6dce5f66ea6a17ab3a46b91e_t.jpeg
+# Terminal options loop
+while True:
+    print("\nOptions:")
+    print("1: Enter the URL of a handwritten digit image")
+    print("2: Exit")
+    choice = input("Choose an option (1 or 2): ")
+
+    if choice == '1':
+        url = input("Enter the URL of a handwritten digit image: ")
+        predict_custom_image(url)
+    elif choice == '2':
+        print("Exiting the program.")
+        break
+    else:
+        print("Invalid choice. Please enter 1 or 2.")
