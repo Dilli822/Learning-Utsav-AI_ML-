@@ -69,5 +69,5 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 || Model Training: The model is trained on the training data with early stopping.
 || Model Evaluation: The model is evaluated on the test data to assess performance.
 || Plotting Results: Visualize training and validation accuracy and loss over epochs.
-|     |
+| 18  | Theoretical Knowledge on CNNs-Face Detection, Classification vs Regression in CNNs, Handling the Input image, Siamese Architecture, Transfer Learning, Idea on how facebook is handling the large billion of Face Detection/Classifier, Knowledge Representation on Propositional Logic(PL)-- tautology, validity, well-formed-formula, Inference using Resolution, Backward Chaining and Forward Chaining, Code Explanation - https://github.com/Dilli822/Learning-Utsav-AI_ML-/blob/main/30Days%20Self%20Learning%20Challenge/Day18/day18.md/, tweet - https://x.com/dilli_hangrae/status/1847945533417247112
 |     |
