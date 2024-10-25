@@ -73,8 +73,8 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 | 19  | CNN built in model SSD MobileNet model is to detect objects within the images (Object Detection), Data augmentation, use of data-augmentation in CNN, FOPL to PL, CODE EXPLAIN: https://github.com/Dilli822/Learning-Utsav-AI_ML-/blob/main/30Days%20Self%20Learning%20Challenge/Day19/day19.md, TWEET: https://x.com/dilli_hangrae/status/1848257999183471049
 | 20  | Glimpse into CNN architecture: MobileNet, GoogleNet,ResNet, Custom CNN Model vs MobileNet, GoogleNet,ResNet Models,Knowledge Repersentation Unification and Lifting, https://x.com/dilli_hangrae/status/1848659400300396602
 | 21  | Logistic Regression Cost vs Loss Function with Maths,plots and animations, decision boundary, https://x.com/dilli_hangrae/status/1849058116538978481
-|  22 | Logistic Regression --> Maximum loglikelihodd, learning pi(x), gardient descent, derivative of sigmoid function, visualizations of gradient descent, GOOGLE COLAB ON SOME PROBABILITY CONCEPTS , https://x.com/dilli_hangrae/status/1849349940281331984
-|     |
+| 22  | Logistic Regression --> Maximum loglikelihodd, learning pi(x), gardient descent, derivative of sigmoid function, visualizations of gradient descent, GOOGLE COLAB ON SOME PROBABILITY CONCEPTS , https://x.com/dilli_hangrae/status/1849349940281331984
+| 23  | Deep Learning Foundations Continuing: Sigmoid,Chain Rule, Model Fitness- R-CNN Kaggle Object Segmentation, https://x.com/dilli_hangrae/status/1849682504925708479
 |     |
 |     |
 |     |
