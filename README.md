@@ -75,6 +75,6 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 | 21  | Logistic Regression Cost vs Loss Function with Maths,plots and animations, decision boundary, https://x.com/dilli_hangrae/status/1849058116538978481
 | 22  | Logistic Regression --> Maximum loglikelihodd, learning pi(x), gardient descent, derivative of sigmoid function, visualizations of gradient descent, GOOGLE COLAB ON SOME PROBABILITY CONCEPTS , https://x.com/dilli_hangrae/status/1849349940281331984
 | 23  | Deep Learning Foundations Continuing: Sigmoid,Chain Rule, Model Fitness- R-CNN Kaggle Object Segmentation, https://x.com/dilli_hangrae/status/1849682504925708479
-|     |
+| 24  | Deep Learning Foundations Continuing:Chain Rule in LR, importance of feature selection, importance of structured data inputs, lasso regularization and hitting with penalties, mxing and stacking the layers in LR, applying lambda or adjusting lambda with regularization terms, https://x.com/dilli_hangrae/status/1850085169182765387
 |     |
 |     |
