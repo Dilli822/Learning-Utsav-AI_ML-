@@ -76,5 +76,5 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 | 22  | Logistic Regression --> Maximum loglikelihodd, learning pi(x), gardient descent, derivative of sigmoid function, visualizations of gradient descent, GOOGLE COLAB ON SOME PROBABILITY CONCEPTS , https://x.com/dilli_hangrae/status/1849349940281331984
 | 23  | Deep Learning Foundations Continuing: Sigmoid,Chain Rule, Model Fitness- R-CNN Kaggle Object Segmentation, https://x.com/dilli_hangrae/status/1849682504925708479
 | 24  | Deep Learning Foundations Continuing:Chain Rule in LR, importance of feature selection, importance of structured data inputs, lasso regularization and hitting with penalties, mxing and stacking the layers in LR, applying lambda or adjusting lambda with regularization terms, https://x.com/dilli_hangrae/status/1850085169182765387
-|b25  | Deep Learning Foundations Continuing: Chain Rule everywhere, backpropagation,activation functions, optimizers, animations and plots, theories on Deep Learning non-linearity and KB CNF, https://x.com/dilli_hangrae/status/1850416977128681923
+| 25  | Deep Learning Foundations Continuing: Chain Rule everywhere, backpropagation,activation functions, optimizers, animations and plots, theories on Deep Learning non-linearity and KB CNF, https://x.com/dilli_hangrae/status/1850416977128681923
 |     |
