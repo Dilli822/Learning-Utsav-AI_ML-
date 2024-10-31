@@ -80,7 +80,7 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 | 26  | Deep Learning Foundations Continuing: Chain Rule everywhere, backpropagation,modularity, organized flow graph of backprogatation, visualization and animation of feature selections, concept of locality, cost function regularized in both linear and logistic regression maths, https://x.com/dilli_hangrae/status/1850768449922056645
 | 27  | Deep Learning Foundations Continuing: Search strategies overview,Exploring DL: Search Strategy, Parameters & Space, distinct model behaviors, Notations for Activations & ANN, Animations Plots,https://x.com/dilli_hangrae/status/1851193800015929620
 | 28  | Deep Learning Foundations II Continuing: Fully Connected ANN with notations, activation function use relu instead of sigmoid but use activation functions depends upon criteria of ANN architecture, how convolution can be understood using probabilities of several ball drop, animation and plots, YOLO8 REAL TIME OBJECT DETECTION,https://x.com/dilli_hangrae/status/1851524034523250931
-| |
+| 29  | CNN Recap: Variants of CNN, blurring, filter, edge detection. Softmax Notations & Intuition, Inference in code, Animation & Plots, https://x.com/dilli_hangrae/status/1851867452759802166
 | |
 | |
 | |
