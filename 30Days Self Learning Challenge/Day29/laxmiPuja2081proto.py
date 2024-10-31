@@ -5,7 +5,7 @@ from matplotlib.animation import FuncAnimation
 import random
 
 # Load the image
-image_path = 'HT.png'  # Replace with your image path
+image_path = 'th.png'  # Replace with your image path
 image = Image.open(image_path)
 
 # Convert image to grayscale
