@@ -1,0 +1,14 @@
+{
+    "source": "img2_processed.png",
+    "is_url": false,
+    "timestamp": "2024-11-01T10:48:09.152948",
+    "text_file": "extracted_texts/extraction_20241101_104808/img2_processed_formatted.txt",
+    "html_file": "extracted_texts/extraction_20241101_104808/img2_processed_formatted.html",
+    "image_size": [
+        615,
+        986,
+        3
+    ],
+    "blocks_detected": 1,
+    "success": true
+}

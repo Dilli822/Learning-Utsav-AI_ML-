@@ -1,0 +1,14 @@
+{
+    "source": "M.webp",
+    "is_url": false,
+    "timestamp": "2024-11-01T10:34:39.671247",
+    "text_file": "extracted_texts/extraction_20241101_103439/M_formatted.txt",
+    "html_file": "extracted_texts/extraction_20241101_103439/M_formatted.html",
+    "image_size": [
+        1056,
+        816,
+        3
+    ],
+    "blocks_detected": 1,
+    "success": true
+}

@@ -1,0 +1,42 @@
+Name :Tara Rai
+Ref. by : Dr. Abhishek Chaudhar, Date ,
+Lab No : 34 7, Age, 30/08/2075
+pe aches
+
+INVESTIGATION
+TLC (WBC) 9,100/Curnm 4,000-11,
+
+i L— 00-11,000/Cumm.
+RBC Count 4.8 million/Cumm 4.0-5.5 mitt < ‘
+
+2 >-8 mill/Cumm
+
+Platelets Count 2,17,000/Cumm 1, 40,000-4, 40,000/cum,
+Differential Count: Sa
+
+Neutrophils 64% 40-70
+
+Lymphocytes 34% 20-45%
+
+Eosinophils 02% 0-7%
+
+Monocytes 00 %
+
+Basophils 00% 0-2%
+Haemoglobin 14.5 Gm%, 12-17Gm%
+mae 43 % 38-54%
+ey 90.00 75-95 fl
+MCH $0.0 Fg oot
+
+% 30-35%
+MCHC 33.0%
+7 7" 70-140 mg%
+Blood Sugar(R) Og oe ae
+g%s 15-41 B%
+Blood Urea 25.0 cig} 7 Sa
+0.7 mg% 0.6-1.5 m
+
+Sr. Creatinine
+
+# Now we can use these INFORMATION IN SOFTWARE ENGINEERING TO TELL WHETHER THE PERSON HAVE HIGH, LOW AND MEDIUM BLOOD SUGAR level
+# ALSO WE CAN TRANSLATE IT IN NEPALI SPEECH SO THAT PEOPLE CAN UNDERSTAND HOW MUCH SUGAR LEVEL IS IN THEIR DIABETES?

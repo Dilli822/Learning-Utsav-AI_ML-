@@ -1,0 +1,13 @@
+{
+    "total_sources": 1,
+    "successful": 1,
+    "failed": 0,
+    "sources_processed": [
+        {
+            "source": "https://www.jantra.org.np/wp-content/uploads/2023/04/img2.jpg",
+            "type": "url",
+            "status": "success",
+            "words_extracted": 167
+        }
+    ]
+}

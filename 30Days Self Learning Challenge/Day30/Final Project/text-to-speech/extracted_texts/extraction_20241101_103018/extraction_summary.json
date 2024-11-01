@@ -1,0 +1,13 @@
+{
+    "total_sources": 1,
+    "successful": 1,
+    "failed": 0,
+    "sources_processed": [
+        {
+            "source": "https://cdn.venngage.com/template/thumbnail/full/aa9eda1b-09c1-4297-a18a-8a6694962e32.webp",
+            "type": "url",
+            "status": "success",
+            "words_extracted": 58
+        }
+    ]
+}
