@@ -81,7 +81,7 @@ I'll be focusing on **AI**, **Machine Learning**, and **Deep Learning** througho
 | 27  | Deep Learning Foundations Continuing: Search strategies overview,Exploring DL: Search Strategy, Parameters & Space, distinct model behaviors, Notations for Activations & ANN, Animations Plots,https://x.com/dilli_hangrae/status/1851193800015929620
 | 28  | Deep Learning Foundations II Continuing: Fully Connected ANN with notations, activation function use relu instead of sigmoid but use activation functions depends upon criteria of ANN architecture, how convolution can be understood using probabilities of several ball drop, animation and plots, YOLO8 REAL TIME OBJECT DETECTION,https://x.com/dilli_hangrae/status/1851524034523250931
 | 29  | CNN Recap: Variants of CNN, blurring, filter, edge detection. Softmax Notations & Intuition, Inference in code, Animation & Plots, https://x.com/dilli_hangrae/status/1851867452759802166
-| |
+| 30 | 📌Beginner Level Projects:📌Text-to-Speech(pyttsx3): Reads your novel aloud.　📌Inference Engine: Derives new facts from　given facts (symbolic AI foundations).　📌Medical Image Reader(OCR): Captures raw images, extracts text, and explains the medical report in various languages. https://x.com/dilli_hangrae/status/1852257176292855865
 | |
 | |
 | |
