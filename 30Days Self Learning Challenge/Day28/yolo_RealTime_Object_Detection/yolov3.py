@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Load YOLO
-net = cv2.dnn.readNet("yolo_datasets/yolov3.weights", "yolo_datasets/yolov3.cfg")
+net = cv2.dnn.readNet("yolo_datasets/yolov3.weights", "yolov3.cfg")
 layer_names = net.getLayerNames()
 output_layers = [layer_names[i - 1] for i in net.getUnconnectedOutLayers()]
 
